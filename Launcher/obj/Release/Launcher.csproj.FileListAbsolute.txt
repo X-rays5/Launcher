@@ -1,0 +1,9 @@
+C:\Users\schee\source\repos\Launcher\Launcher\bin\Release\Launcher.exe.config
+C:\Users\schee\source\repos\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\schee\source\repos\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.Launcherwindow.resources
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.exe
+C:\Users\schee\source\repos\Launcher\Launcher\obj\Release\Launcher.pdb
